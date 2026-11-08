@@ -8,8 +8,6 @@
   <a href="https://shopilot.store">shopilot.store</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:accounts@shopilot.store">accounts@shopilot.store</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="tel:+201500084725">+20 150 008 4725</a>
 </p>
 
 <p align="center">Early access · onboarding retailers in Egypt.</p>
